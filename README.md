@@ -9,19 +9,19 @@ Welcome to **Portfolio Template** — a sleek, modern developer portfolio crafte
 Here’s a preview of the portfolio:  
 
 ### 🏠 Home Page  
-![Home Page Screenshot](./Website-snippet.png) 
+![Home Page Screenshot](Website-snippet.png) 
 
 ### 👨‍💻 About Page  
-![About Page Screenshot](./Website-snippet1.png)
+![About Page Screenshot](Website-snippet1.png)
 
 ### 🛠️ Skills Page  
-![Skills Page Screenshot](./Website-snippet2.png)  
+![Skills Page Screenshot](Website-snippet2.png)  
 
 ### 🚀 Projects Section  
-![Projects Page Screenshot](./Website-snippet3.png)  
+![Projects Page Screenshot](Website-snippet3.png)  
 
 ### 📬 Contact Section  
-![Contact Page Screenshot](./Website-snippet4.png)  
+![Contact Page Screenshot](Website-snippet4.png)  
 
 ---
 
