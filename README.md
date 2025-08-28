@@ -1,6 +1,6 @@
 # 🌟 Portfolio Template — Built with Next.js & Tailwind CSS  
 
-Welcome to **Portfolio Nine** — a sleek, modern developer portfolio crafted with **Next.js** and **Tailwind CSS** to showcase _your best work_, skills, and professional journey.  
+Welcome to **Portfolio Template** — a sleek, modern developer portfolio crafted with **Next.js** and **Tailwind CSS** to showcase _your best work_, skills, and professional journey.  
 
 ---
 
