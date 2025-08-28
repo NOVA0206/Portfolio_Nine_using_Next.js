@@ -131,4 +131,10 @@ If you like this template, don’t forget to ⭐ **star the repo** and use it fo
 
 👨‍💻 **Made with Next.js, Tailwind, and ❤️ by NOVA0206**
 
-```
+**Author**
+
+**Name:** Jeevan Ramesh Jadhav
+
+**Email:** jeevanj020604@gmail.com
+
+---
